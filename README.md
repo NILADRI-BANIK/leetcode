@@ -6,6 +6,7 @@ All DSA
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/NILADRI-BANIK/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -33,15 +34,18 @@ All DSA
 | ------- |
 | [0001-two-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NILADRI-BANIK/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/NILADRI-BANIK/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -51,8 +55,13 @@ All DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NILADRI-BANIK/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NILADRI-BANIK/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
