@@ -33,8 +33,17 @@ All DSA
 | ------- |
 | [0001-two-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/0001-two-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/NILADRI-BANIK/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
