@@ -39,6 +39,7 @@ All DSA
 | [0027-remove-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NILADRI-BANIK/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/NILADRI-BANIK/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ All DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/NILADRI-BANIK/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NILADRI-BANIK/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/NILADRI-BANIK/leetcode/tree/master/0704-binary-search) |
