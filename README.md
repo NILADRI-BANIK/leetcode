@@ -38,6 +38,7 @@ All DSA
 | [0011-container-with-most-water](https://github.com/NILADRI-BANIK/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/NILADRI-BANIK/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NILADRI-BANIK/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,6 +74,7 @@ All DSA
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NILADRI-BANIK/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/NILADRI-BANIK/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NILADRI-BANIK/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
