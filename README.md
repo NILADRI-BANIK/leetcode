@@ -15,6 +15,7 @@ All DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NILADRI-BANIK/leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -39,6 +40,7 @@ All DSA
 | [0027-remove-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NILADRI-BANIK/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/NILADRI-BANIK/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/NILADRI-BANIK/leetcode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0162-find-peak-element) |
@@ -88,6 +90,7 @@ All DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NILADRI-BANIK/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/NILADRI-BANIK/leetcode/tree/master/0053-maximum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
