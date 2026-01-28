@@ -53,6 +53,7 @@ All DSA
 | [0215-kth-largest-element-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/NILADRI-BANIK/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/NILADRI-BANIK/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NILADRI-BANIK/leetcode/tree/master/0704-binary-search) |
@@ -98,6 +99,7 @@ All DSA
 | [0162-find-peak-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NILADRI-BANIK/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NILADRI-BANIK/leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -112,6 +114,7 @@ All DSA
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +123,7 @@ All DSA
 | [0042-trapping-rain-water](https://github.com/NILADRI-BANIK/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/NILADRI-BANIK/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NILADRI-BANIK/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
