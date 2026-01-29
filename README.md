@@ -166,6 +166,7 @@ All DSA
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/NILADRI-BANIK/leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0179-largest-number) |
 ## Quickselect
 |  |
