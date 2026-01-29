@@ -60,6 +60,7 @@ All DSA
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NILADRI-BANIK/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/NILADRI-BANIK/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/NILADRI-BANIK/leetcode/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NILADRI-BANIK/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -88,6 +89,7 @@ All DSA
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/NILADRI-BANIK/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
