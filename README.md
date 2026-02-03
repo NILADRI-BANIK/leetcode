@@ -76,6 +76,7 @@ All DSA
 | [0001-two-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/NILADRI-BANIK/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +148,7 @@ All DSA
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/NILADRI-BANIK/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NILADRI-BANIK/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -175,6 +177,7 @@ All DSA
 | [0179-largest-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/NILADRI-BANIK/leetcode/tree/master/0443-string-compression) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/NILADRI-BANIK/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Quickselect
 |  |
 | ------- |
