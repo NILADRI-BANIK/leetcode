@@ -23,6 +23,7 @@ All DSA
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -161,6 +162,7 @@ All DSA
 | [0155-min-stack](https://github.com/NILADRI-BANIK/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NILADRI-BANIK/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NILADRI-BANIK/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,6 +173,7 @@ All DSA
 | [0058-length-of-last-word](https://github.com/NILADRI-BANIK/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0179-largest-number) |
+| [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/NILADRI-BANIK/leetcode/tree/master/0443-string-compression) |
 ## Quickselect
 |  |
