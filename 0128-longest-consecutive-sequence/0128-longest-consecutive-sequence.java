@@ -1,32 +1,35 @@
 import java.util.*;
 
 class Solution {
-    public int longestConsecutive(int[] nums) {
+    public int longestConsecutive(int[] n) {
 
-        if (nums.length == 0) return 0;
+        if (n.length == 0) return 0;
 
-        HashSet<Integer> set = new HashSet<>();
-        for (int x : nums) {
-            set.add(x);
+        HashMap<Integer, Boolean> hm = new HashMap<>();
+
+        for (int x : n) {
+            hm.put(x, false);
         }
 
-        int longest = 0;
-
-        for (int x : set) {
-            // start of a sequence
-            if (!set.contains(x - 1)) {
-                int curr = x;
-                int count = 1;
-
-                while (set.contains(curr + 1)) {
-                    curr++;
-                    count++;
-                }
-
-                longest = Math.max(longest, count);
+        // mark sequence starters
+        for (int key : hm.keySet()) {
+            if (!hm.containsKey(key - 1)) {
+                hm.put(key, true);
             }
         }
 
-        return longest;
+        int max = 0;
+
+        for (int key : hm.keySet()) {
+            if (hm.get(key)) {
+                int k = 1;               // ✅ reset here
+                while (hm.containsKey(key + k)) {
+                    k++;
+                }
+                max = Math.max(max, k); // ✅ store result
+            }
+        }
+
+        return max;                     // ✅ correct return
     }
 }
