@@ -183,6 +183,7 @@ All DSA
 | [0316-remove-duplicate-letters](https://github.com/NILADRI-BANIK/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/NILADRI-BANIK/leetcode/tree/master/0443-string-compression) |
+| [1446-consecutive-characters](https://github.com/NILADRI-BANIK/leetcode/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/NILADRI-BANIK/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Quickselect
 |  |
