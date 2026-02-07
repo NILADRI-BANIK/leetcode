@@ -161,6 +161,7 @@ All DSA
 | [0316-remove-duplicate-letters](https://github.com/NILADRI-BANIK/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/NILADRI-BANIK/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/NILADRI-BANIK/leetcode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NILADRI-BANIK/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +172,7 @@ All DSA
 | [0232-implement-queue-using-stacks](https://github.com/NILADRI-BANIK/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/NILADRI-BANIK/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NILADRI-BANIK/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -187,6 +189,7 @@ All DSA
 | [0316-remove-duplicate-letters](https://github.com/NILADRI-BANIK/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/NILADRI-BANIK/leetcode/tree/master/0443-string-compression) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NILADRI-BANIK/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/NILADRI-BANIK/leetcode/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/NILADRI-BANIK/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Quickselect
