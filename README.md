@@ -13,6 +13,7 @@ All DSA
 | [0989-add-to-array-form-of-integer](https://github.com/NILADRI-BANIK/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/NILADRI-BANIK/leetcode/tree/master/1518-water-bottles) |
+| [2396-strictly-palindromic-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@ All DSA
 | [0443-string-compression](https://github.com/NILADRI-BANIK/leetcode/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/NILADRI-BANIK/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +151,7 @@ All DSA
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/NILADRI-BANIK/leetcode/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Counting
 |  |
 | ------- |
