@@ -6,6 +6,7 @@ All DSA
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NILADRI-BANIK/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NILADRI-BANIK/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/NILADRI-BANIK/leetcode/tree/master/0319-bulb-switcher) |
@@ -47,6 +48,7 @@ All DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NILADRI-BANIK/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/NILADRI-BANIK/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/NILADRI-BANIK/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NILADRI-BANIK/leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/NILADRI-BANIK/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/NILADRI-BANIK/leetcode/tree/master/0066-plus-one) |
@@ -227,6 +229,7 @@ All DSA
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NILADRI-BANIK/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/NILADRI-BANIK/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/NILADRI-BANIK/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/NILADRI-BANIK/leetcode/tree/master/0867-transpose-matrix) |
