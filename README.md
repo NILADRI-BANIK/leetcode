@@ -34,6 +34,7 @@ All DSA
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/NILADRI-BANIK/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/NILADRI-BANIK/leetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/NILADRI-BANIK/leetcode/tree/master/1518-water-bottles) |
 ## Array
@@ -47,6 +48,7 @@ All DSA
 | [0035-search-insert-position](https://github.com/NILADRI-BANIK/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/NILADRI-BANIK/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NILADRI-BANIK/leetcode/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/NILADRI-BANIK/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/NILADRI-BANIK/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/NILADRI-BANIK/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NILADRI-BANIK/leetcode/tree/master/0075-sort-colors) |
@@ -225,6 +227,7 @@ All DSA
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/NILADRI-BANIK/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/NILADRI-BANIK/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/NILADRI-BANIK/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/1572-matrix-diagonal-sum) |
