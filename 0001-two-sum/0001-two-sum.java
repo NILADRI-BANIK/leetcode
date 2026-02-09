@@ -1,17 +1,15 @@
 class Solution {
-    public int[] twoSum(int[] nums, int target) {
+    public int[] twoSum(int[] n, int t) {
+        int a[] = new int[2];
         int i, j;
-        int ans[]  = new int[2];
-        for (i = 0; i < nums.length; i++) {
-            for (j = i+1; j < nums.length; j++) {
-
-                if (nums[i] + nums[j] == target) {
-                    ans[0] = i;
-                    ans[1] = j;
-                    break;
+        for (i = 0; i < n.length; i++) {
+            for (j = i + 1; j < n.length; j++) {
+                if (n[i] + n[j] == t) {
+                    a[0] = i;
+                    a[1] = j;
                 }
             }
         }
-        return ans;
+        return a;
     }
 }
