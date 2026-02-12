@@ -25,6 +25,7 @@ All DSA
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NILADRI-BANIK/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0509-fibonacci-number) |
@@ -240,5 +241,6 @@ All DSA
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NILADRI-BANIK/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
