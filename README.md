@@ -6,6 +6,7 @@ All DSA
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NILADRI-BANIK/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/NILADRI-BANIK/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NILADRI-BANIK/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@ All DSA
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NILADRI-BANIK/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/NILADRI-BANIK/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
@@ -241,6 +243,7 @@ All DSA
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NILADRI-BANIK/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/NILADRI-BANIK/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0234-palindrome-linked-list) |
