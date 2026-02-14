@@ -16,6 +16,7 @@ All DSA
 | [1137-n-th-tribonacci-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/NILADRI-BANIK/leetcode/tree/master/1518-water-bottles) |
 | [2396-strictly-palindromic-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +194,7 @@ All DSA
 | [0316-remove-duplicate-letters](https://github.com/NILADRI-BANIK/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NILADRI-BANIK/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -247,4 +249,5 @@ All DSA
 | [0021-merge-two-sorted-lists](https://github.com/NILADRI-BANIK/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
