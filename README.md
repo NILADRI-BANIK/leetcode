@@ -249,5 +249,6 @@ All DSA
 | [0021-merge-two-sorted-lists](https://github.com/NILADRI-BANIK/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
