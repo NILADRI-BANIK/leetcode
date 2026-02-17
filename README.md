@@ -44,6 +44,7 @@ All DSA
 | [0059-spiral-matrix-ii](https://github.com/NILADRI-BANIK/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/NILADRI-BANIK/leetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/NILADRI-BANIK/leetcode/tree/master/1518-water-bottles) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/NILADRI-BANIK/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Array
 |  |
 | ------- |
@@ -266,5 +267,6 @@ All DSA
 | [0237-delete-node-in-a-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/NILADRI-BANIK/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
