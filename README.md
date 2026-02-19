@@ -130,6 +130,7 @@ All DSA
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NILADRI-BANIK/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/NILADRI-BANIK/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -146,6 +147,7 @@ All DSA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NILADRI-BANIK/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -279,6 +281,7 @@ All DSA
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NILADRI-BANIK/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -291,5 +294,6 @@ All DSA
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NILADRI-BANIK/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
