@@ -201,6 +201,7 @@ All DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/NILADRI-BANIK/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NILADRI-BANIK/leetcode/tree/master/0042-trapping-rain-water) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NILADRI-BANIK/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/NILADRI-BANIK/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NILADRI-BANIK/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NILADRI-BANIK/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -282,12 +283,14 @@ All DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NILADRI-BANIK/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/NILADRI-BANIK/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NILADRI-BANIK/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -298,6 +301,7 @@ All DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NILADRI-BANIK/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/NILADRI-BANIK/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
