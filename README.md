@@ -61,6 +61,7 @@ All DSA
 | [0066-plus-one](https://github.com/NILADRI-BANIK/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/NILADRI-BANIK/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NILADRI-BANIK/leetcode/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/NILADRI-BANIK/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NILADRI-BANIK/leetcode/tree/master/0162-find-peak-element) |
@@ -143,6 +144,7 @@ All DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/NILADRI-BANIK/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/NILADRI-BANIK/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/NILADRI-BANIK/leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -284,6 +286,7 @@ All DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NILADRI-BANIK/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NILADRI-BANIK/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -312,6 +315,7 @@ All DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NILADRI-BANIK/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NILADRI-BANIK/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -326,5 +330,6 @@ All DSA
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NILADRI-BANIK/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
