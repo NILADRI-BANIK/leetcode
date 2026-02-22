@@ -298,6 +298,7 @@ All DSA
 | [0700-search-in-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -310,6 +311,7 @@ All DSA
 | [0257-binary-tree-paths](https://github.com/NILADRI-BANIK/leetcode/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/NILADRI-BANIK/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -318,6 +320,7 @@ All DSA
 | [0199-binary-tree-right-side-view](https://github.com/NILADRI-BANIK/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/NILADRI-BANIK/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -334,6 +337,7 @@ All DSA
 | [0700-search-in-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Backtracking
 |  |
 | ------- |
