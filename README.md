@@ -148,6 +148,7 @@ All DSA
 | [0053-maximum-subarray](https://github.com/NILADRI-BANIK/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NILADRI-BANIK/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,6 +201,7 @@ All DSA
 | [0334-increasing-triplet-subsequence](https://github.com/NILADRI-BANIK/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/NILADRI-BANIK/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NILADRI-BANIK/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -302,6 +304,7 @@ All DSA
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@ All DSA
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -343,6 +347,7 @@ All DSA
 | [0965-univalued-binary-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -356,4 +361,5 @@ All DSA
 | [0700-search-in-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
