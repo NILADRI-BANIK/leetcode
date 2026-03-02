@@ -367,4 +367,8 @@ All DSA
 | [0701-insert-into-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/NILADRI-BANIK/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
