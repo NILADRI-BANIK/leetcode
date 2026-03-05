@@ -370,6 +370,7 @@ All DSA
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/NILADRI-BANIK/leetcode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/NILADRI-BANIK/leetcode/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/NILADRI-BANIK/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/NILADRI-BANIK/leetcode/tree/master/0197-rising-temperature) |
