@@ -298,6 +298,7 @@ All DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/NILADRI-BANIK/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/0112-path-sum) |
@@ -333,6 +334,7 @@ All DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/NILADRI-BANIK/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NILADRI-BANIK/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/NILADRI-BANIK/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -342,6 +344,7 @@ All DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/NILADRI-BANIK/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NILADRI-BANIK/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/NILADRI-BANIK/leetcode/tree/master/0112-path-sum) |
