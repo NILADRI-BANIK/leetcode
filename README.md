@@ -10,6 +10,7 @@ All DSA
 | [0009-palindrome-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/NILADRI-BANIK/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NILADRI-BANIK/leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/NILADRI-BANIK/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/NILADRI-BANIK/leetcode/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0509-fibonacci-number) |
@@ -32,6 +33,7 @@ All DSA
 | [0002-add-two-numbers](https://github.com/NILADRI-BANIK/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/NILADRI-BANIK/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/NILADRI-BANIK/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/NILADRI-BANIK/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NILADRI-BANIK/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NILADRI-BANIK/leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0509-fibonacci-number) |
@@ -155,6 +157,7 @@ All DSA
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/NILADRI-BANIK/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/NILADRI-BANIK/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
