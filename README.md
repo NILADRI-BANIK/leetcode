@@ -7,6 +7,7 @@ All DSA
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NILADRI-BANIK/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/NILADRI-BANIK/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NILADRI-BANIK/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/NILADRI-BANIK/leetcode/tree/master/0268-missing-number) |
