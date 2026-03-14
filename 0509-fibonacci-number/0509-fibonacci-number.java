@@ -7,12 +7,12 @@ class Solution {
         }
 
         int i, ft = 0, st = 1, tt;
-        for (i = 1; i <= n; i++) {
+        for (i = 2; i <= n; i++) {
             tt = ft + st;
 
-            ft=st;
+            ft = st;
             st = tt;
         }
-        return ft;
+        return st;
     }
 }
